@@ -95,7 +95,26 @@
 			"file": "trydjango/settings.py",
 			"settings":
 			{
-				"buffer_size": 3097,
+				"buffer_size": 3130,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "products/models.py",
+			"settings":
+			{
+				"buffer_size": 224,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "products/admin.py",
+			"settings":
+			{
+				"buffer_size": 120,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -151,6 +170,7 @@
 	[
 		"/C/Users/DELL/Desktop/Django",
 		"/C/Users/DELL/Desktop/Django/src",
+		"/C/Users/DELL/Desktop/Django/src/products",
 		"/C/Users/DELL/Desktop/Django/src/trydjango"
 	],
 	"file_history":
@@ -225,24 +245,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
 					"file": "trydjango/settings.py",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3097,
+						"buffer_size": 3130,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2797,
-								2797
+								1091,
+								1091
 							]
 						],
 						"settings":
@@ -252,7 +272,63 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1791.0,
+						"translation.y": 429.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "products/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "products/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
