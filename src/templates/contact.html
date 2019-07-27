@@ -1,1 +1,16 @@
+{%extends 'base.html' %}
+
+{% block contact %}
 <h3>shivamdeopa@gmail.com</h3>
+
+
+<p>
+	{{ my_text }} <br>
+	{{ my_num }} <br><br>
+	<ul>
+	{% for i in my_list %}
+	<li>{{i}}</li>
+	{% endfor %}
+	</ul>
+</p>
+{% endblock %}
